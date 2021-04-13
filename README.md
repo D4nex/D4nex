@@ -4,4 +4,5 @@ Hello, I am a simple human in this world :)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwn2Ninj4&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
+`Lenguages`
 <img height="25" src="./Image/python.svg"> <img height="25" src="./Image/c.svg"> <img height="25" src="./Image/gnubash.svg"> <img height="25" src="./Image/node-dot-js.svg"></code>
