@@ -3,4 +3,4 @@ Hello, I am a simple human in this world :)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pwn2Ninj4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwn2Ninj4&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="25" src="./Image/python.svg"> <img height="25" src="./Image/c.svg"> <img height="25" src="./Images/gnubash.svg"> <img height="25" src="./Images/node-dot-js.svg"></code>
+<img height="25" src="./Image/python.svg"> <img height="25" src="./Image/c.svg"> <img height="25" src="./Image/gnubash.svg"> <img height="25" src="./Image/node-dot-js.svg"></code>
