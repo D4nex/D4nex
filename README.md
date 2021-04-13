@@ -6,4 +6,4 @@ Hello, I am a simple human in this world :)
 
 <h3>Languages</h3><p><img height="25" src="./Image/python.svg"> <img height="25" src="./Image/c.svg"> <img height="25" src="./Image/gnubash.svg"> <img height="25" src="./Image/node-dot-js.svg"></code>
 
-<h3>Community</h3><p><img height="25" src="./Image/stackoverflow.svg"> <img height="25" src="./Image/codewars.svg"> <img height="25" src="./Image/freecodecamp.svg"> <img height="25" src="./Image/gnusocial.svg"> <img height="25" src="./Image/debian.svg"> <img height="25" src="./Image/archlinux.svg">
+<h3>Community</h3><p><img height="25" src="./Image/stackoverflow.svg"> <img height="25" src="./Image/codewars.svg"> <img height="25" src="./Image/freecodecamp.svg"> <img height="25" src="./Image/gnusocial.svg"> <img height="25" src="./Image/leetcode.svg"> <img height="25" src="./Image/codechef.svg"> <img height="25" src="./Image/debian.svg"> <img height="25" src="./Image/archlinux.svg">
